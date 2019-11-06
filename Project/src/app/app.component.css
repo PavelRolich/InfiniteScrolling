@@ -1,0 +1,8 @@
+.outer {
+  padding: 30px;
+}
+.outer .inner {
+  margin: auto;
+  width: 500px;
+  height: 500px;
+}
